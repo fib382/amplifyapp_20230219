@@ -14,6 +14,15 @@
     "categories": {
       "auth": {
         "amplifyapp20230219c5c4afff": {}
+      },
+      "api": {
+        "amplifyapp20230219": {}
+      },
+      "storage": {
+        "amplifyapp2023021980e581a2": {
+          "bucketName": "amplify-amplify972dc50297a94-staging-40426-deployment",
+          "region": "ap-northeast-1"
+        }
       }
     }
   }
